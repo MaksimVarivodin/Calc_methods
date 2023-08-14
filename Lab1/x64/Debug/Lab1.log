@@ -1,0 +1,5 @@
+﻿  lagr_pol_cl.cpp
+d:\прога\calc_methods\labs\lab1\lagr_pol_cl.cpp(6): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Lab1.vcxproj -> D:\Прога\Calc_methods\Labs\x64\Debug\Lab1.exe

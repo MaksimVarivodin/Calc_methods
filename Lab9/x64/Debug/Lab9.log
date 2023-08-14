@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\прога\calc_methods\labs\lab9\matrix3_cl.h(21): warning C4010: однострочный комментарий содержит знак объединения строк
+  Matrix3_cl.cpp
+d:\прога\calc_methods\labs\lab9\matrix3_cl.h(21): warning C4010: однострочный комментарий содержит знак объединения строк
+d:\прога\calc_methods\labs\lab9\matrix3_cl.cpp(158): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+d:\прога\calc_methods\labs\lab9\matrix3_cl.cpp(167): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Lab9.vcxproj -> D:\Прога\Calc_methods\Labs\x64\Debug\Lab9.exe

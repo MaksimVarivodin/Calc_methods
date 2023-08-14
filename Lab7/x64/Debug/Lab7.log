@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  Matrix_cl.cpp
+d:\прога\calc_methods\labs\lab7\matrix_cl.cpp(45): warning C4244: аргумент: преобразование "const int" в "const float", возможна потеря данных
+d:\прога\calc_methods\labs\lab7\matrix_cl.cpp(176): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  Создание кода...
+  Lab7.vcxproj -> D:\Прога\Calc_methods\Labs\x64\Debug\Lab7.exe

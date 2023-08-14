@@ -1,0 +1,5 @@
+﻿  geom_pol.cpp
+d:\прога\calc_methods\labs\lab3\geom_pol.cpp(9): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+  Lab3_main.cpp
+  Создание кода...
+  Lab3.vcxproj -> D:\Прога\Calc_methods\Labs\x64\Debug\Lab3.exe

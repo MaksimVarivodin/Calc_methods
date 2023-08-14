@@ -1,0 +1,5 @@
+﻿C:\vs\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "d:\прога\calc_methods\labs\x64\debug\lab4.exe".
+  Lab4_main.cpp
+d:\прога\calc_methods\labs\lab4\lab4_main.cpp(71): warning C4244: аргумент: преобразование "const double" в "const int", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "D:\Прога\Calc_methods\Labs\x64\Debug\Lab4.exe"
+C:\vs\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6006: "link.exe" завершилась с кодом 1104.
